@@ -1,0 +1,3 @@
+[submodule "examples/LKMPG"]
+	path = examples/LKMPG
+	url = https://github.com/bashrc/LKMPG.git
